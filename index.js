@@ -33,7 +33,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contribute',
+        name: 'contributors',
         message: 'Who worked on it?', 
     },
     {

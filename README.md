@@ -1,8 +1,8 @@
-# Example
+# Generate-ReadMe
   ![Badge for License](https://shields.io/badge/license-MIT-red.svg)
 
   ## Description
-  This is an example ReadMe file for submittion
+  This is a application to generate a professional ReadMe file for your projects. When inputing node index.js into the command line you should be prompted with questions about what you want to include in the ReadMe file. After answering all questions, a ReadMe will be generated from the information input by the user.
 
   ## Table of contents
   * [Installation](#installation)
@@ -13,10 +13,10 @@
   * [Questions](#questions)
 
   ## Installation
-  none
+  None
 
   ## Usage
-  none
+  None
 
   ## License
   https://mit-license.org/
@@ -25,7 +25,7 @@
   Travis
 
   ## Test
-  none
+  None
 
   ## Questions
   Travis3214@yahoo.com

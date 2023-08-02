@@ -54,7 +54,7 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contribute](#contributors)
+  * [Contributors](#contributors)
   * [Test](#test)
   * [Questions](#questions)
 
@@ -68,7 +68,7 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
 
   ## Contributors
-  ${data.contribute}
+  ${data.contributors}
 
   ## Test
   ${data.test}
